@@ -1,0 +1,30 @@
+
+
+
+@media (max-width: 1130px) {
+    .log-lang,
+    .nav-ul {
+        display: none;
+    }
+    .toggle-button {
+        display: block;
+    }
+}
+
+@media (max-width:1157px) {
+    .section-bg1 {
+        height: auto;
+    }
+    .right-block {
+        margin-top: 50px;
+    }
+    .video-wraper {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1167px) {
+    .section-bg2 {
+        height: auto;
+    }
+}
